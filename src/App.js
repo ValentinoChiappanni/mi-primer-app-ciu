@@ -1,10 +1,10 @@
-import './App.css';
+import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div>
-      <h1 className="text-center">Repo semilla</h1>
+    <div className="text-center">
+      <h1>Repo semilla</h1>
     </div>
   );
 }
